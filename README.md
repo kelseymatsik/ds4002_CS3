@@ -9,4 +9,4 @@
 1. Run the 2_data_prep.ipynb file in the SCRIPTS folder. This file contains code to prepare the data for analysis (including splitting the data into training, validation, and testing sets). After running this file, you will be ready to begin building a convolutional neural network (CNN) or other model of your choosing! 
 
 ## Model Evaluation 
-1. After fitting and tuning your models, evaluate your models by running the code in 3_model_eval.ipynb in the SCRIPTS folder. *Note:* You will need to add this chunk of code to the bottom of your analysis code. When the model has classified glioma tumors with at least 85% recall, you are done! 
+1. After fitting and tuning your models, evaluate your models by running the code in 3_model_eval.ipynb in the SCRIPTS folder. *Note:* You will need to add this chunk of code to the bottom of your analysis code. When the model has classified glioma tumors with at least 85% recall, you have achieved your goal! 
