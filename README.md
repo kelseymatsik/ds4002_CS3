@@ -3,7 +3,7 @@ This repository contains code and relevant materials for accomplishing the overa
 
 ## Content Overview 
 * Project Mission.pdf: introduces project motivation and goal.
-* : article detailing brain tumor detection using transfer learning methods and a 3-layer CNN.
+* Brain Tumor Detection using CNNs.pdf: article detailing brain tumor detection using transfer learning methods and a 3-layer CNN.
 * Rubric.pdf: provides the purpose, task, and criteria by which your efforts will be evaluated.
 * SCRIPTS: contains code for pre-processing and preparing the data and code for evaluating classification models. 
 
